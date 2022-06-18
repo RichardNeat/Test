@@ -1,2 +1,2 @@
 # Test
-Testing out GitHub on my computer
+Testing out GitHub on my computer to see how it works!
